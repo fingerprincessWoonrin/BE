@@ -4,8 +4,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class FocusflowApplication
+class FocusFlowApplication
 
 fun main(args: Array<String>) {
-    runApplication<FocusflowApplication>(*args)
+    runApplication<FocusFlowApplication>(*args)
 }
